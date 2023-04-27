@@ -15,5 +15,5 @@ public class Main {
 		
 		Combo combo = new Combo();
 		combo.CriarCombo(tipo);
-	}TESTE GIT
+	}
 }
